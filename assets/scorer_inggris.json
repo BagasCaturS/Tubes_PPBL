@@ -1,0 +1,145 @@
+{
+  "season": "2022-2023",
+  "top_scorers": [
+    {
+      "no": 1,
+      "player": "Mohamed Salah",
+      "team": "Liverpool",
+      "goals": 32,
+      "games_played": 37
+    },
+    {
+      "no": 2,
+      "player": "Harry Kane",
+      "team": "Tottenham Hotspur",
+      "goals": 29,
+      "games_played": 36
+    },
+    {
+      "no": 3,
+      "player": "Bruno Fernandes",
+      "team": "Manchester United",
+      "goals": 25,
+      "games_played": 38
+    },
+    {
+      "no": 4,
+      "player": "Romelu Lukaku",
+      "team": "Chelsea",
+      "goals": 24,
+      "games_played": 34
+    },
+    {
+      "no": 5,
+      "player": "Erling Haaland",
+      "team": "Manchester City",
+      "goals": 22,
+      "games_played": 30
+    },
+    {
+      "no": 6,
+      "player": "Patrick Bamford",
+      "team": "Leeds United",
+      "goals": 20,
+      "games_played": 38
+    },
+    {
+      "no": 7,
+      "player": "Diogo Jota",
+      "team": "Liverpool",
+      "goals": 19,
+      "games_played": 32
+    },
+    {
+      "no": 8,
+      "player": "Dominic Calvert-Lewin",
+      "team": "Everton",
+      "goals": 18,
+      "games_played": 36
+    },
+    {
+      "no": 9,
+      "player": "Jamie Vardy",
+      "team": "Leicester City",
+      "goals": 17,
+      "games_played": 34
+    },
+    {
+      "no": 10,
+      "player": "Bukayo Saka",
+      "team": "Arsenal",
+      "goals": 16,
+      "games_played": 35
+    },
+    {
+      "no": 11,
+      "player": "Callum Wilson",
+      "team": "Newcastle United",
+      "goals": 15,
+      "games_played": 29
+    },
+    {
+      "no": 12,
+      "player": "Son Heung-min",
+      "team": "Tottenham Hotspur",
+      "goals": 14,
+      "games_played": 35
+    },
+    {
+      "no": 13,
+      "player": "Roberto Firmino",
+      "team": "Liverpool",
+      "goals": 13,
+      "games_played": 33
+    },
+    {
+      "no": 14,
+      "player": "Raheem Sterling",
+      "team": "Manchester City",
+      "goals": 13,
+      "games_played": 36
+    },
+    {
+      "no": 15,
+      "player": "Timo Werner",
+      "team": "Chelsea",
+      "goals": 12,
+      "games_played": 36
+    },
+    {
+      "no": 16,
+      "player": "Wilfried Zaha",
+      "team": "Crystal Palace",
+      "goals": 11,
+      "games_played": 33
+    },
+    {
+      "no": 17,
+      "player": "Ollie Watkins",
+      "team": "Aston Villa",
+      "goals": 11,
+      "games_played": 35
+    },
+    {
+      "no": 18,
+      "player": "Sadio Mane",
+      "team": "Liverpool",
+      "goals": 10,
+      "games_played": 30
+    },
+    {
+      "no": 19,
+      "player": "Alexandre Lacazette",
+      "team": "Arsenal",
+      "goals": 10,
+      "games_played": 31
+    },
+    {
+      "no": 20,
+      "player": "Neal Maupay",
+      "team": "Brighton & Hove Albion",
+      "goals": 10,
+      "games_played": 32
+    }
+  ]
+}

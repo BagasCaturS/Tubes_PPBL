@@ -1,0 +1,96 @@
+{
+    "season": "2023-2024",
+    "transfers": [
+      {
+        "player": "Erling Haaland",
+        "from": "Borussia Dortmund",
+        "to": "Manchester City",
+        "transfer_fee": "£100,000,000"
+      },
+      {
+        "player": "Romelu Lukaku",
+        "from": "Inter Milan",
+        "to": "Chelsea",
+        "transfer_fee": "£97,500,000"
+      },
+      {
+        "player": "Jack Grealish",
+        "from": "Aston Villa",
+        "to": "Manchester United",
+        "transfer_fee": "£90,000,000"
+      },
+      {
+        "player": "Jadon Sancho",
+        "from": "Borussia Dortmund",
+        "to": "Manchester United",
+        "transfer_fee": "£85,000,000"
+      },
+      {
+        "player": "Raphael Varane",
+        "from": "Real Madrid",
+        "to": "Manchester United",
+        "transfer_fee": "£50,000,000"
+      },
+      {
+        "player": "Ben White",
+        "from": "Brighton & Hove Albion",
+        "to": "Arsenal",
+        "transfer_fee": "£50,000,000"
+      },
+      {
+        "player": "Rafael Leão",
+        "from": "AC Milan",
+        "to": "Everton",
+        "transfer_fee": "£40,000,000"
+      },
+      {
+        "player": "Ibrahima Konate",
+        "from": "RB Leipzig",
+        "to": "Liverpool",
+        "transfer_fee": "£35,000,000"
+      },
+      {
+        "player": "Patson Daka",
+        "from": "RB Salzburg",
+        "to": "Leicester City",
+        "transfer_fee": "£30,000,000"
+      },
+      {
+        "player": "Boubacar Kamara",
+        "from": "Olympique Marseille",
+        "to": "Tottenham Hotspur",
+        "transfer_fee": "£25,000,000"
+      },
+      {
+        "player": "Renato Sanches",
+        "from": "Lille",
+        "to": "Liverpool",
+        "transfer_fee": "£25,000,000"
+      },
+      {
+        "player": "Donyell Malen",
+        "from": "PSV Eindhoven",
+        "to": "Arsenal",
+        "transfer_fee": "£22,000,000"
+      },
+      {
+        "player": "Nuno Mendes",
+        "from": "Sporting CP",
+        "to": "Manchester City",
+        "transfer_fee": "£20,000,000"
+      },
+      {
+        "player": "Aaron Ramsdale",
+        "from": "Sheffield United",
+        "to": "Arsenal",
+        "transfer_fee": "£18,000,000"
+      },
+      {
+        "player": "Odsonne Edouard",
+        "from": "Celtic",
+        "to": "Leicester City",
+        "transfer_fee": "£15,000,000"
+      }
+    ]
+  }
+  
