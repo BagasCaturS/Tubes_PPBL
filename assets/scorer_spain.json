@@ -1,0 +1,145 @@
+{
+  "season": "2022-2023",
+  "top_scorers": [
+    {
+      "no": 1,
+      "player": "Karim Benzema",
+      "team": "Real Madrid",
+      "goals": 29,
+      "games_played": 37
+    },
+    {
+      "no": 2,
+      "player": "Gerard Moreno",
+      "team": "Villarreal",
+      "goals": 23,
+      "games_played": 36
+    },
+    {
+      "no": 3,
+      "player": "Youssef En-Nesyri",
+      "team": "Sevilla",
+      "goals": 21,
+      "games_played": 36
+    },
+    {
+      "no": 4,
+      "player": "Luis Suárez",
+      "team": "Atlético Madrid",
+      "goals": 20,
+      "games_played": 32
+    },
+    {
+      "no": 5,
+      "player": "Antoine Griezmann",
+      "team": "Barcelona",
+      "goals": 18,
+      "games_played": 35
+    },
+    {
+      "no": 6,
+      "player": "Santi Mina",
+      "team": "Celta Vigo",
+      "goals": 17,
+      "games_played": 34
+    },
+    {
+      "no": 7,
+      "player": "Iago Aspas",
+      "team": "Celta Vigo",
+      "goals": 16,
+      "games_played": 33
+    },
+    {
+      "no": 8,
+      "player": "Roger Martí",
+      "team": "Levante",
+      "goals": 16,
+      "games_played": 34
+    },
+    {
+      "no": 9,
+      "player": "Kike García",
+      "team": "Eibar",
+      "goals": 15,
+      "games_played": 36
+    },
+    {
+      "no": 10,
+      "player": "Carlos Soler",
+      "team": "Valencia",
+      "goals": 14,
+      "games_played": 35
+    },
+    {
+      "no": 11,
+      "player": "Joselu",
+      "team": "Alavés",
+      "goals": 13,
+      "games_played": 33
+    },
+    {
+      "no": 12,
+      "player": "Ángel Rodríguez",
+      "team": "Getafe",
+      "goals": 12,
+      "games_played": 36
+    },
+    {
+      "no": 13,
+      "player": "Sergi Enrich",
+      "team": "Eibar",
+      "goals": 12,
+      "games_played": 34
+    },
+    {
+      "no": 14,
+      "player": "Rubén García",
+      "team": "Osasuna",
+      "goals": 11,
+      "games_played": 35
+    },
+    {
+      "no": 15,
+      "player": "Óscar Plano",
+      "team": "Real Valladolid",
+      "goals": 11,
+      "games_played": 37
+    },
+    {
+      "no": 16,
+      "player": "Lucas Pérez",
+      "team": "Alavés",
+      "goals": 11,
+      "games_played": 32
+    },
+    {
+      "no": 17,
+      "player": "Dani Parejo",
+      "team": "Villarreal",
+      "goals": 10,
+      "games_played": 35
+    },
+    {
+      "no": 18,
+      "player": "Kike",
+      "team": "Eibar",
+      "goals": 10,
+      "games_played": 35
+    },
+    {
+      "no": 19,
+      "player": "Mikel Oyarzabal",
+      "team": "Real Sociedad",
+      "goals": 9,
+      "games_played": 36
+    },
+    {
+      "no": 20,
+      "player": "Carlos Bacca",
+      "team": "Villarreal",
+      "goals": 9,
+      "games_played": 34
+    }
+  ]
+}

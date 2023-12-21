@@ -1,0 +1,145 @@
+{
+  "season": "2022-2023",
+  "top_assists": [
+    {
+      "no": 1,
+      "player": "Marco Asensio",
+      "team": "Real Madrid",
+      "assists": 10,
+      "games_played": 36
+    },
+    {
+      "no": 2,
+      "player": "Dani Parejo",
+      "team": "Villarreal",
+      "assists": 9,
+      "games_played": 35
+    },
+    {
+      "no": 3,
+      "player": "Ivan Rakitić",
+      "team": "Sevilla",
+      "assists": 8,
+      "games_played": 36
+    },
+    {
+      "no": 4,
+      "player": "Sergi Darder",
+      "team": "Espanyol",
+      "assists": 8,
+      "games_played": 35
+    },
+    {
+      "no": 5,
+      "player": "José Campaña",
+      "team": "Levante",
+      "assists": 7,
+      "games_played": 34
+    },
+    {
+      "no": 6,
+      "player": "Rodrygo",
+      "team": "Real Madrid",
+      "assists": 7,
+      "games_played": 33
+    },
+    {
+      "no": 7,
+      "player": "Frenkie de Jong",
+      "team": "Barcelona",
+      "assists": 6,
+      "games_played": 35
+    },
+    {
+      "no": 8,
+      "player": "Brais Méndez",
+      "team": "Celta Vigo",
+      "assists": 6,
+      "games_played": 36
+    },
+    {
+      "no": 9,
+      "player": "Dani García",
+      "team": "Athletic Bilbao",
+      "assists": 6,
+      "games_played": 34
+    },
+    {
+      "no": 10,
+      "player": "Lionel Messi",
+      "team": "Paris Saint-Germain",
+      "assists": 5,
+      "games_played": 30
+    },
+    {
+      "no": 11,
+      "player": "Antoine Griezmann",
+      "team": "Barcelona",
+      "assists": 5,
+      "games_played": 35
+    },
+    {
+      "no": 12,
+      "player": "Lucas Vázquez",
+      "team": "Real Madrid",
+      "assists": 5,
+      "games_played": 30
+    },
+    {
+      "no": 13,
+      "player": "Óscar Plano",
+      "team": "Real Valladolid",
+      "assists": 5,
+      "games_played": 37
+    },
+    {
+      "no": 14,
+      "player": "Santi Mina",
+      "team": "Celta Vigo",
+      "assists": 5,
+      "games_played": 34
+    },
+    {
+      "no": 15,
+      "player": "Javi Puado",
+      "team": "Espanyol",
+      "assists": 5,
+      "games_played": 36
+    },
+    {
+      "no": 16,
+      "player": "Youssef En-Nesyri",
+      "team": "Sevilla",
+      "assists": 4,
+      "games_played": 35
+    },
+    {
+      "no": 17,
+      "player": "Paco Alcácer",
+      "team": "Villarreal",
+      "assists": 4,
+      "games_played": 31
+    },
+    {
+      "no": 18,
+      "player": "Karim Benzema",
+      "team": "Real Madrid",
+      "assists": 4,
+      "games_played": 33
+    },
+    {
+      "no": 19,
+      "player": "Alex Berenguer",
+      "team": "Athletic Bilbao",
+      "assists": 4,
+      "games_played": 34
+    },
+    {
+      "no": 20,
+      "player": "Sergio Canales",
+      "team": "Real Betis",
+      "assists": 4,
+      "games_played": 36
+    }
+  ]
+}
